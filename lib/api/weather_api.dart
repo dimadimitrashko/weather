@@ -1,10 +1,6 @@
 import 'dart:convert';
 import 'dart:developer';
 import 'dart:html';
-import 'package:weather_example/utilities/location.dart';
-import 'package:http/http.dart' as http;
-import 'package:weather_example/models/weather_forecast_daily.dart';
-import 'package:weather_example/utilities/constants.dart';
 
 import '../madels/weather_forecast_daily.dart';
 import '../utilities/constants.dart';
