@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'dart:html';
 
 import '../madels/weather_forecast_daily.dart';
 import '../utilities/constants.dart';
+import '../utilities/location.dart';
 
 
 class WeatherApi {
