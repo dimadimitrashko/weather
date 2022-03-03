@@ -31,6 +31,7 @@ class WeatherApi {
       };
       parameters = params;
     }
+    k
 
 
     var uri = Uri.https(Constants.WEATHER_BASE_URL_DOMAIN, Constants.WEATHER_FORECAST_PATH, parameters);
