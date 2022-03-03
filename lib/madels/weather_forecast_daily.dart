@@ -1,4 +1,3 @@
-
 import 'package:weather/utilities/constants.dart';
 
 class WeatherForecast {
